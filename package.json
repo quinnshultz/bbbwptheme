@@ -1,11 +1,11 @@
 {
-  "name": "storefront",
-  "title": "Storefront",
-  "version": "2.3.2",
-  "homepage": "http://woocommerce.com/storefront/",
+  "name": "bbbwptheme",
+  "title": "Bill's Backyard Bees",
+  "version": "1.0.0",
+  "homepage": "https://billsbackyardbees.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/woothemes/storefront.git"
+    "url": "https://github.com/quinnshultz/bbbwptheme.git"
   },
   "scripts": {
     "build": "grunt",
